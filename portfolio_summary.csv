@@ -1,0 +1,4 @@
+Ticker,Buy Price,Quantity,Current Price,Invested Amount,Market Value,Profit/Loss,Gain/Loss Percentage
+TESLA,200.0,4,250.0,800.0,1000.0,200.0,25.0
+
+TOTAL,,,,800.0,1000.0,200.0,25.0
